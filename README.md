@@ -32,7 +32,7 @@ This GitHub is a way for me to:
 ---
 
 ### 🔗 Connect With Me
-- 🎥 TikTok: [@Ikayprince_10](https://www.tiktok.com/@Ikayprince_10)
+- 🎥 Email: learnwithikay@gmail.com 
 
 ---
 
