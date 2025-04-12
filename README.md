@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**Ikay0011/Ikay0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🚀 Helping new learners grow in Data Analysis — one challenge at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying at **Aptech Computer Education**, taking a **Data Analysis** course. I'm passionate about continuous learning, improving my skills, and sharing what I learn with others.
+
+This GitHub profile showcases some of the **MySQL** and **Excel** challenges I've worked on. I'm also learning **Python** and other courses to expand my data toolkit.
+
+---
+
+### 💼 Skills So Far
+- **MySQL**: Writing queries, solving challenges, managing databases
+- **Excel**: Data cleaning, formulas, pivot tables
+- **Python**: Currently learning the basics
+
+---
+
+### 📁 Projects
+- 🔹 [MySQL Challenges Repository](https://github.com/Ikay0011/MYSQL-CHALLENGE)  
+  A collection of MySQL exercises I've solved during my studies.
+- 🔸 Excel project repository coming soon!
+
+---
+
+### 📚 Why I'm Sharing This
+I believe the best way to learn is by doing and sharing.  
+This GitHub is a way for me to:
+- Track my learning progress
+- Help other beginners just starting their data journey
+- Build a portfolio I can be proud of
+
+---
+
+### 🔗 Connect With Me
+- 🎥 TikTok: [@Ikayprince_10](https://www.tiktok.com/@Ikayprince_10)
+
+---
+
+> 💡 *Thank you for visiting! Let’s grow together in the world of Data Analysis.*
+
